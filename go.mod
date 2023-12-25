@@ -1,3 +1,3 @@
-module git.foxminded.ua/foxstudent106361/user-proto
+module github.com/PavelDonchenko/user-proto
 
 go 1.21.0
